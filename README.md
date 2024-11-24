@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, This is my mini project</h1>
 <h2 align="center"> 🔐🕵🏻CRYPTOGRAPHIC FILE PROTECTION SYSTEM</h2>
 
-<img align="right" alt="hacking" width="400" src ="https://www.linkedin.com/pulse/encryption-demystified-patrick-mutabazi/">
+<img align="right" alt="hacking" width="400" src ="https://github.com/user-attachments/assets/f1bed209-9a86-4f41-8809-819637d65541">
+
 
 
 
