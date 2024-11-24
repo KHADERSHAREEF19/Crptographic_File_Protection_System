@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, This is my mini project</h1>
 <h2 align="center"> 🔐🕵🏻CRYPTOGRAPHIC FILE PROTECTION SYSTEM</h2>
 
+<img align="right" alt="hacking" width="400" src ="https://www.linkedin.com/pulse/encryption-demystified-patrick-mutabazi/">
+
+
+
+
 This project provides a robust and secure file encryption and decryption tool, ensuring the confidentiality and integrity of sensitive data. Utilizing advanced cryptographic techniques, "Cryptographic File Protection System" offers a user-friendly interface for encrypting and decrypting files of various formats.
 
 👨🏻‍💻Mini Project (Third Year, NSAKCET)
